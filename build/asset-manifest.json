@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ffdebb1.css",
+    "main.js": "/static/js/main.64b9bf35.js",
+    "static/js/787.633816a4.chunk.js": "/static/js/787.633816a4.chunk.js",
+    "static/media/Brain_.png": "/static/media/Brain_.085563386fd337024ece.png",
+    "static/media/Dumbbells_.png": "/static/media/Dumbbells_.b91dcd6a5248194df2d9.png",
+    "static/media/3.svg": "/static/media/3.cdb12211e06d800ed1c4807fc1e5fbe2.svg",
+    "index.html": "/index.html",
+    "main.0ffdebb1.css.map": "/static/css/main.0ffdebb1.css.map",
+    "main.64b9bf35.js.map": "/static/js/main.64b9bf35.js.map",
+    "787.633816a4.chunk.js.map": "/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ffdebb1.css",
+    "static/js/main.64b9bf35.js"
+  ]
+}
