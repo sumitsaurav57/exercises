@@ -1,0 +1,19 @@
+{
+  "blogs": [
+    {
+      "title": "my first blog",
+      "body": "how are we",
+      "id": "1"
+    },
+    {
+      "title": "my second blog",
+      "blog": "who are we",
+      "id": "2"
+    },
+    {
+      "title": " sumit",
+      "body": " mishra",
+      "id": "m1z-duh"
+    }
+  ]
+}
